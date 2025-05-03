@@ -79,4 +79,3 @@ chmod +x disk_usage_report.sh
 
 ## Sample Image
 
-![Disk](image.png)

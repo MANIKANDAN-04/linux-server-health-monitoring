@@ -86,4 +86,3 @@ chmod +x firewall_status_check.sh
 
 ## Sample Image
 
-![Firewall](image.png)

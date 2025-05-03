@@ -86,4 +86,3 @@ sudo ./network_monitoring_report.sh
 
 ## Sample Image
 
-![Network](network.jpg)

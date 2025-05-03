@@ -89,4 +89,3 @@ chmod +x cpu_usage_report.sh
 
 ## Sample Image
 
-![CPU](cpu.jpg)

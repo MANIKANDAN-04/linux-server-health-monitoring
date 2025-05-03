@@ -79,4 +79,3 @@ sudo ./systemd_services_check.sh
 
 ## Sample Image
 
-![Systemd](systemd.jpg)

@@ -76,4 +76,3 @@ chmod +x memory_usage_report.sh
 
 ## Sample Image
 
-![Memory](memory.jpg)

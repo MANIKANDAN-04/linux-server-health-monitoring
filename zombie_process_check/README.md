@@ -84,5 +84,3 @@ sudo ./zombie_process_check.sh
 - **No zombie or hung processes**: The script will report a message confirming no issues were found.
 
 ## Sample Image
-
-![zombie](zombies.jpg)

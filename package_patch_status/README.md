@@ -78,4 +78,3 @@ sudo ./package_patch_status.sh
 
 ## Sample Image
 
-![package](patches.jpg)
