@@ -86,3 +86,4 @@ chmod +x firewall_status_check.sh
 
 ## Sample Image
 
+![firewall](https://github.com/user-attachments/assets/82d5ef5c-5b1b-499c-8ec3-ac6accbc6801)
