@@ -89,3 +89,4 @@ chmod +x cpu_usage_report.sh
 
 ## Sample Image
 
+![cpu](https://github.com/user-attachments/assets/65dd0844-8f11-479b-bd9e-b638dab61ae6)
