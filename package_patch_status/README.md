@@ -78,3 +78,4 @@ sudo ./package_patch_status.sh
 
 ## Sample Image
 
+![patches](https://github.com/user-attachments/assets/7ebb47fe-2fc3-479a-9a4f-5838520e8eec)
