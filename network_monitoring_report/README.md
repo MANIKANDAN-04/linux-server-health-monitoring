@@ -86,3 +86,5 @@ sudo ./network_monitoring_report.sh
 
 ## Sample Image
 
+
+![network](https://github.com/user-attachments/assets/dd83e527-7d47-4282-a2fc-5ccf939406f1)
