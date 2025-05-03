@@ -85,3 +85,6 @@ chmod +x check_cron_jobs.sh
 - For systems without `systemd`, the timer section will notify that it’s not available.
 
 ## Sample Image
+
+![corn](https://github.com/user-attachments/assets/804afef0-87fa-4728-94d2-929f036e8ef3)
+
