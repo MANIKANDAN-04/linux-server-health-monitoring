@@ -79,3 +79,4 @@ sudo ./systemd_services_check.sh
 
 ## Sample Image
 
+![systemd](https://github.com/user-attachments/assets/f5558ce5-d1bd-48c1-9bf3-e76249d2425b)
