@@ -79,3 +79,4 @@ chmod +x disk_usage_report.sh
 
 ## Sample Image
 
+![disk](https://github.com/user-attachments/assets/cfedc12f-1fc4-4ec6-b662-36e4b1eace3a)
