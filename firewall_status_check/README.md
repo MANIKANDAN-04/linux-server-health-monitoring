@@ -83,3 +83,7 @@ chmod +x firewall_status_check.sh
 
 - If no supported firewall tool is found, the script will display an appropriate message.
 - Safe to run on any major Linux distribution.
+
+## Sample Image
+
+![Firewall](image.png)

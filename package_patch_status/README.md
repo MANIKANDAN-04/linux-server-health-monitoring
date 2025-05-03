@@ -75,3 +75,7 @@ sudo ./package_patch_status.sh
 - The script supports multiple Linux distributions (Ubuntu, Debian, CentOS, Fedora, RHEL, SUSE, Arch Linux).
 - Requires root privileges to check and display certain package update and kernel status information.
 - Depending on your package manager, it may prompt for root access to check for updates.
+
+## Sample Image
+
+![package](patches.jpg)

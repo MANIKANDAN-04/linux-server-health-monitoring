@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "=========================="
-echo "Memory & Disk Usage Report"
+echo "Memory Usage Report"
 echo "=========================="
 
 # Human-readable memory usage (already shows GB)

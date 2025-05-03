@@ -83,3 +83,6 @@ sudo ./zombie_process_check.sh
 - The script outputs a timestamp and detailed process information to help administrators quickly identify problematic processes.
 - **No zombie or hung processes**: The script will report a message confirming no issues were found.
 
+## Sample Image
+
+![zombie](zombies.jpg)

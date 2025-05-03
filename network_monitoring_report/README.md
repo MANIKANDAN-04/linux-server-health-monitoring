@@ -83,3 +83,7 @@ sudo ./network_monitoring_report.sh
 - The script checks for multiple firewall tools, displaying their status if detected.
 - Requires root privileges for accessing certain network and firewall information.
 - Compatible with most Linux distributions.
+
+## Sample Image
+
+![Network](network.jpg)

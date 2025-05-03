@@ -86,3 +86,7 @@ chmod +x cpu_usage_report.sh
 - If `mpstat` is not available, the script will notify and provide install guidance.
 - The script presents converted CPU jiffies in **seconds** for easier interpretation.
 - Designed to run with minimal dependencies and broad compatibility.
+
+## Sample Image
+
+![CPU](cpu.jpg)

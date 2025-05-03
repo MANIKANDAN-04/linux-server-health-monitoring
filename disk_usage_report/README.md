@@ -76,3 +76,7 @@ chmod +x disk_usage_report.sh
 
 - Only device-mounted filesystems are included in the inode report.
 - Designed to provide quick visibility without needing external tools.
+
+## Sample Image
+
+![Disk](image.png)

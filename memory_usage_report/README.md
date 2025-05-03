@@ -73,3 +73,7 @@ chmod +x memory_usage_report.sh
 - Memory is shown in **gigabytes (GB)** for clarity.
 - Values pulled directly from kernel interface `/proc/meminfo`.
 - No root permissions required to run.
+
+## Sample Image
+
+![Memory](memory.jpg)

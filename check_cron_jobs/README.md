@@ -83,3 +83,6 @@ chmod +x check_cron_jobs.sh
 
 - The script suppresses empty or commented lines to keep the output clean.
 - For systems without `systemd`, the timer section will notify that it’s not available.
+
+## Sample Image
+![corn-jobs](corn-1.jpg)

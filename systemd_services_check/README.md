@@ -77,3 +77,6 @@ sudo ./systemd_services_check.sh
 - The output is formatted for easy reading, with columns aligned for clarity.
 - This script helps system administrators quickly identify issues with services on the system.
 
+## Sample Image
+
+![Systemd](systemd.jpg)
