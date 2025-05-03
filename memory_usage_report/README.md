@@ -76,3 +76,4 @@ chmod +x memory_usage_report.sh
 
 ## Sample Image
 
+![memory](https://github.com/user-attachments/assets/42e32d11-09fa-4685-b5ea-62b31edf8b63)
